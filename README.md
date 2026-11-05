@@ -1,3 +1,3 @@
 # hello-world
-first respositoruy
+first respository
 
